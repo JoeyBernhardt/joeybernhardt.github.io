@@ -1,11 +1,18 @@
 ---
-title: "joeybernhardt.github.io"
+# title: "Joey Bernhardt"
+image: media/JB-photo.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: BlueSky
+      href: https://bsky.app/profile/joeybernhardt.bsky.social
+    - text: GitHub
+      href: https://github.com/joeybernhardt
+    - text: Email
+      href: mailto:joey.bernhardt@uoguelph.ca
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hi! I'm Joey, an ecologist and aspiring candy broker.

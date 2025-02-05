@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My favourite research topics\nDid you know phytoplankton produce the oxygen in every second breath you take?"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "joeybernhardt.github.io",
+    "title": "Joey Bernhardt",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi! I’m Joey, an ecologist and aspiring candy broker."
   },
   {
     "objectID": "about.html",
